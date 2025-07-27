@@ -1,0 +1,17 @@
+== JS History
+== where js code is written
+== varaibles
+
+/**
+ * var
+ * ----------------------
+ * == declaration
+ * ==  can reassign and accept deferent datatype
+ * == allow redeclaration
+*/
+== Datatypes
+== Operators
+== control flow (if -- switch -- for - do while)
+== communication with users
+
+== Regex in js (regular expression) (self study)  (including in js exam)

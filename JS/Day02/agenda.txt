@@ -1,0 +1,34 @@
+== functions 
+    == user defined functions
+        -- function statement
+        -- function expression 
+        -- anonymous function
+        -- call back function 
+        -- IIFE 
+    == built in functions
+
+
+== Hoisting 
+How js engine works ?
+== String 
+/** string
+ * ===================
+ * == length
+ * ---------------------------
+ *  == charAt
+ *  ==  indexOf
+ *  == lastIndexOf
+ *  == toUpperCase
+ *  == toLowerCase
+ *  == concat
+ *  == startsWith
+ *  == endsWith
+ *  == includes
+ *  == trim
+ *  == trimStart
+ *  == trimEnd
+ *  == Slice VS substring VS Splice (search)
+ *
+ */
+
+== Array
