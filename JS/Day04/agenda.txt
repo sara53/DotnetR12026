@@ -1,0 +1,40 @@
+== DOM
+
+// DOM ==  Document Object Model
+
+/**
+ * 1- How to select Element from dom
+ * --------------------(Methods)-------------------
+ *  == getElementById == Element | null
+ *  == querySelector == Element | null
+ *  == getElementsByClassName == collection
+ *  == getElementsByTagName == collection
+ *  == getElementsByName == NodeList
+ *  == querySelectorAll == NodeList
+ * -------------------- (Props) ---------------------------
+ *  == document.body
+ *  == document.images
+ *  == document.links
+ *  == document.forms
+ *  ==firstChild
+ *  ==lastChild
+ *  ==firstElementChild
+ *  ==lastElementChild
+ *  ==children
+ *  ==childNodes
+ */
+
+/** How to change element content
+ * ---------------------------------------
+ * 1- innerText
+ * 2- innerHTML
+ * 3- textContent (search)
+ *-------------------input--------------------
+    ==  value
+    == checked
+ */
+
+== Event
+    == add attribute
+    == attach function
+    == add EventListener
