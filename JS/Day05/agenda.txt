@@ -1,0 +1,23 @@
+/**
+ * == appendChild
+ * ------------------------------------
+ *  == accept node type
+ *  == accept only one child
+ *  == return child
+ * ------------------------------------
+ * == append
+ * -----------------------------------
+ *  == accept string | node
+ *  == accept more than one child
+ *  == return undefined
+ * ----------------------------------
+ *  -- parent.insertBefore(element1,element2)
+ *  --  insertAdjacentElement
+ *--------------------------------------------
+    == remove
+ */
+
+ == Events
+    -- add attribute 
+    -- attach function
+    -- addEventListener

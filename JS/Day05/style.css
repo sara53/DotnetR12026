@@ -1,0 +1,91 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+	background: #ddd;
+	padding: 1rem;
+	margin: 1rem;
+}
+
+p {
+	background-color: #eee;
+	padding: 1rem;
+	margin: 1rem;
+}
+
+input[type="text"] {
+	display: block;
+	margin: 1rem;
+	border: 1px solid #ccc;
+	padding: 0.5rem;
+	width: 200px;
+	border-radius: 5px;
+	outline: 0;
+}
+button {
+	display: block;
+	width: 170px;
+	border: 1px solid #ccc;
+	padding: 0.5rem;
+	background-color: #171a6f;
+	cursor: pointer;
+	color: #ddd;
+	margin: 1rem;
+}
+
+#output {
+	display: block;
+	margin: 1rem;
+}
+img {
+	width: 100px;
+}
+
+.info {
+	background-color: rebeccapurple;
+	color: #ddd;
+}
+
+.testData {
+	letter-spacing: 3px;
+}
+
+.jsClass {
+	background-color: rgb(135, 26, 91);
+	color: #ddd;
+}
+
+#errorMsg {
+	color: red;
+	display: inline-block;
+	margin-left: 1rem;
+	display: none;
+}
+
+.first {
+	width: 300px;
+	height: 300px;
+	background-color: #171a6f;
+}
+
+.second {
+	width: 200px;
+	height: 200px;
+	background-color: rgb(158, 22, 52);
+}
+
+.third {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+
+#output {
+	display: inline-block;
+	margin-left: 1rem;
+	font-weight: bold;
+	font-size: 3rem;
+}
