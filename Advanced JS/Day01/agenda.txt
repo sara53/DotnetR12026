@@ -1,0 +1,6 @@
+== this 
+== call - bind - apply
+== that pattern
+== closure
+== Factory pattern
+== Function constructor
