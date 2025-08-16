@@ -1,0 +1,67 @@
+== var - let - const
+// html - css - javascript
+
+// Es6 -- javascript -- 2015
+
+/**
+ * var -- (declaration for any varaible)
+ * ----------------------------------------
+ *  == reassign with different datatype
+ *  == allow redeclaration
+ *  == Hoisiting
+ *  == function scope
+ *  == added to window object
+ * ---------------------------------------------
+ * let -- (declaration for any varaible)
+ * ---------------------------------------------
+ *  == reassign with different datatype
+ *  == don't allow redeclaration
+ *  == Hoisting -- (TDZ) --
+ *  == block scope
+ *  == not added to window object
+ * ---------------------------------------------
+ * const -- (declaration for any constant varaible)
+ * ---------------------------------------------
+ *  == can't reassign with different datatype
+ *  == don't allow redeclaration
+ *  == Hoisting -- (TDZ) --
+ *  == block scope
+ *  == not added to window object
+
+ */
+
+== spread operator
+
+== destructing
+== default values
+== rest params
+== arrow functions
+== array API
+/**
+ *  Array API
+ * ----------------------
+ *  == find -- return element
+ *  == findInded   return index
+ *  == every -- (&&)
+ *  == some -- (||)
+ *  == map -- []
+ *  == filter
+ *  == foreach
+ *  == reduce
+ *  ---------------------------------------
+ *  (flat)
+ *  (flatMap)
+ */
+
+== String API
+/**
+ * == trim
+ * == trimStart
+ * == trimgEnd
+ * ==startsWith
+ * == startsEnd
+ * == includes
+  ``
+ */
+
+== object properties
