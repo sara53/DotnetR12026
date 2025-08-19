@@ -1,0 +1,11 @@
+== Object.keys
+== Object.values
+== Object.entries
+== Object.assign
+
+== Async execution in memory
+
+== Promises
+    -- then -- catch
+    -- async - await
+== Fetch
